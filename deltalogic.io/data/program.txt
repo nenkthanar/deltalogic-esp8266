@@ -1,0 +1,8 @@
+   [{
+    "name":["sensor"],
+    "prefix":["if"],
+    "sensor":["DHT"],
+    "operator":["<"],
+    "refer":["min"],
+    "drive":["Relay1"]
+   }]
